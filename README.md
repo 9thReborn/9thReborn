@@ -24,7 +24,7 @@
 - 🌱 I work with **Node JS**
 - 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
 - 📫 How to reach me **silasadinoyi@gmail.com**
-- ⚡ Fun fact **I love football**
+- ⚡ Fun fact **I love Music**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ChidikeC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lacegiovanni17" height="30" width="40" /></a>
