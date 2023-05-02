@@ -1,4 +1,4 @@
-# README.md
+<!-- # README.md
 
 <h1 align="center">Hi 👋, I'm Silas Adinoyi</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
@@ -52,3 +52,4 @@
 </a>
 </p>
 
+ -->
