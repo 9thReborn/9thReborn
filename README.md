@@ -13,8 +13,8 @@
 
 <p align="center">
   <tr>
-    <th><a href="https://palindrome-checker-by-henry.netlify.app">🏆 Achievements</a></th>
-    <th><a href="https://starwars-api-henry.netlify.app/">🎩 Notable contributions</a></th>
+    <th><a href="">🏆 Achievements</a></th>
+    <th><a href="https://dapper-centaur-c1e4de.netlify.app/">🎩 Notable contributions</a></th>
   </tr>
  </p>
  
@@ -27,7 +27,7 @@
 - ⚡ Fun fact **I love Music**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ChidikeC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lacegiovanni17" height="30" width="40" /></a>
+<a href="https://twitter.com/lastborn_Adin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@silas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/silas-adinoyi-368360182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chizoba Chidike Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dk_senpai7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_zobs" height="30" width="40" /></a>
 </p>
